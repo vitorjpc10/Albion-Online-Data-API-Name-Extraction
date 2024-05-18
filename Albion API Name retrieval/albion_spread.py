@@ -32,7 +32,7 @@ def write_to_csv(data, output_file):
         writer.writerow(['Item', 'API Name'])
         writer.writerows(data)
 
-def generate_api_url(base_url, data, locations):
+def generate_api_url_food_price(base_url, data, locations):
     # Extract the API names from the data tuples
     api_names = [item[1] for item in data]
 
@@ -41,6 +41,18 @@ def generate_api_url(base_url, data, locations):
 
     # Construct the final URL
     final_url = f"{base_url}/{api_names_str}.xml?locations={','.join(locations)}"
+
+    return final_url
+
+def generate_api_url_food_history(base_url, data, locations):
+    # Extract the API names from the data tuples
+    api_names = [item[1] for item in data]
+
+    # Join the API names with commas
+    api_names_str = ','.join(api_names)
+
+    # Construct the final URL
+    final_url = f"{base_url}/{api_names_str}?time-scale=24"
 
     return final_url
 
@@ -155,15 +167,20 @@ def main():
 
     #? Generating full url
     # Base URL
-    base_url = "https://albion-online-data.com/api/v2/stats/prices"
+    base_url_sell_prices = "https://albion-online-data.com/api/v2/stats/prices"
+    base_url_sell_history = "https://albion-online-data.com/api/v2/stats/history"
 
     # Locations
-    locations = ["Martlock", "Bridgewatch", "Lymhurst", "Fort Sterling", "Thetford", "Caerleon"]
+    locations = ["Martlock", "Bridgewatch", "Lymhurst", "Thetford", "Caerleon", "FortSterling"]
 
-    # Generate the API URL
-    api_url = generate_api_url(base_url, data, locations)
+    # Generate the API URL food prices
+    api_url_food_prices = generate_api_url_food_price(base_url_sell_prices, data, locations)
 
-    print(api_url)
+    # Generate the API URL food price history
+    api_url_food_sell_history = generate_api_url_food_history(base_url_sell_history, data, locations)
+
+    print(api_url_food_prices)
+    print(api_url_food_sell_history)
 
 if __name__ == '__main__':
     main()
