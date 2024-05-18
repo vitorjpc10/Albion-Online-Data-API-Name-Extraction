@@ -1,0 +1,94 @@
+Item,API Name
+Avalonian Pork Omelette,T7_MEAL_OMELETTE_AVALON
+Avalonian Pork Omelette@1,T7_MEAL_OMELETTE_AVALON@1
+Avalonian Pork Omelette@2,T7_MEAL_OMELETTE_AVALON@2
+Avalonian Pork Omelette@3,T7_MEAL_OMELETTE_AVALON@3
+Dusthole Crab Omelette,T7_MEAL_OMELETTE_FISH
+Dusthole Crab Omelette@1,T7_MEAL_OMELETTE_FISH@1
+Dusthole Crab Omelette@2,T7_MEAL_OMELETTE_FISH@2
+Dusthole Crab Omelette@3,T7_MEAL_OMELETTE_FISH@3
+Pork Omelette,T7_MEAL_OMELETTE
+Pork Omelette@1,T7_MEAL_OMELETTE@1
+Pork Omelette@2,T7_MEAL_OMELETTE@2
+Pork Omelette@3,T7_MEAL_OMELETTE@3
+Frostpeak Deadeye Pie,T7_MEAL_PIE_FISH
+Frostpeak Deadeye Pie@1,T7_MEAL_PIE_FISH@1
+Frostpeak Deadeye Pie@2,T7_MEAL_PIE_FISH@2
+Frostpeak Deadeye Pie@3,T7_MEAL_PIE_FISH@3
+Pork Pie,T7_MEAL_PIE
+Pork Pie@1,T7_MEAL_PIE@1
+Pork Pie@2,T7_MEAL_PIE@2
+Pork Pie@3,T7_MEAL_PIE@3
+Deepwater Kraken Salad,T6_MEAL_SALAD_FISH
+Deepwater Kraken Salad@1,T6_MEAL_SALAD_FISH@1
+Deepwater Kraken Salad@2,T6_MEAL_SALAD_FISH@2
+Deepwater Kraken Salad@3,T6_MEAL_SALAD_FISH@3
+Potato Salad,T6_MEAL_SALAD
+Potato Salad@1,T6_MEAL_SALAD@1
+Potato Salad@2,T6_MEAL_SALAD@2
+Potato Salad@3,T6_MEAL_SALAD@3
+Avalonian Mutton Sandwich,T6_MEAL_SANDWICH_AVALON
+Avalonian Mutton Sandwich@1,T6_MEAL_SANDWICH_AVALON@1
+Avalonian Mutton Sandwich@2,T6_MEAL_SANDWICH_AVALON@2
+Avalonian Mutton Sandwich@3,T6_MEAL_SANDWICH_AVALON@3
+Beef Sandwich,T8_MEAL_SANDWICH
+Beef Sandwich@1,T8_MEAL_SANDWICH@1
+Beef Sandwich@2,T8_MEAL_SANDWICH@2
+Beef Sandwich@3,T8_MEAL_SANDWICH@3
+Thunderfall Lurcher Sandwich,T8_MEAL_SANDWICH_FISH
+Thunderfall Lurcher Sandwich@1,T8_MEAL_SANDWICH_FISH@1
+Thunderfall Lurcher Sandwich@2,T8_MEAL_SANDWICH_FISH@2
+Thunderfall Lurcher Sandwich@3,T8_MEAL_SANDWICH_FISH@3
+Blackbog Clam Soup,T5_MEAL_SOUP_FISH
+Blackbog Clam Soup@1,T5_MEAL_SOUP_FISH@1
+Blackbog Clam Soup@2,T5_MEAL_SOUP_FISH@2
+Blackbog Clam Soup@3,T5_MEAL_SOUP_FISH@3
+Avalonian Beef Stew,T8_MEAL_STEW_AVALON
+Avalonian Beef Stew@1,T8_MEAL_STEW_AVALON@1
+Avalonian Beef Stew@2,T8_MEAL_STEW_AVALON@2
+Avalonian Beef Stew@3,T8_MEAL_STEW_AVALON@3
+Beef Stew,T8_MEAL_STEW
+Beef Stew@1,T8_MEAL_STEW@1
+Beef Stew@2,T8_MEAL_STEW@2
+Beef Stew@3,T8_MEAL_STEW@3
+Deadwater Eel Stew,T8_MEAL_STEW_FISH
+Deadwater Eel Stew@1,T8_MEAL_STEW_FISH@1
+Deadwater Eel Stew@2,T8_MEAL_STEW_FISH@2
+Deadwater Eel Stew@3,T8_MEAL_STEW_FISH@3
+Roast Pork,T7_MEAL_ROAST
+Roast Pork@1,T7_MEAL_ROAST@1
+Roast Pork@2,T7_MEAL_ROAST@2
+Roast Pork@3,T7_MEAL_ROAST@3
+Roasted Puremist Snapper,T7_MEAL_ROAST_FISH
+Roasted Puremist Snapper@1,T7_MEAL_ROAST_FISH@1
+Roasted Puremist Snapper@2,T7_MEAL_ROAST_FISH@2
+Roasted Puremist Snapper@3,T7_MEAL_ROAST_FISH@3
+Cow's Milk,T8_MILK
+Raw Pork,T7_MEAT
+Goose Eggs,T5_EGG
+Avalonian Energy,QUESTITEM_TOKEN_AVALON
+Dusthole Crab,T7_FISH_FRESHWATER_STEPPE_RARE
+Bundle of Corn,T7_CORN
+Firetouched Mullein,T7_MULLEIN
+Frostpeak Deadeye,T7_FISH_FRESHWATER_MOUNTAIN_RARE
+Flour,T3_FLOUR
+Sheep's Milk,T6_MILK
+Basic Fish Sauce,T1_FISHSAUCE_LEVEL1
+Fancy Fish Sauce,T1_FISHSAUCE_LEVEL2
+Special Fish Sauce,T1_FISHSAUCE_LEVEL3
+Deepwater Kraken,T7_FISH_SALTWATER_ALL_RARE
+Potatoes,T6_POTATO
+Raw Mutton,T6_MEAT
+Cabbage,T5_CABBAGE
+Raw Beef,T8_MEAT
+Cow's Butter,T8_BUTTER
+Pumpkin,T8_PUMPKIN
+Ghoul Yarrow,T8_YARROW
+Raw Goose,T5_MEAT
+Dragon Teasel,T5_TEASEL
+Bread,T4_BREAD
+Puremist Snapper,T7_FISH_FRESHWATER_AVALON_RARE
+Deadwater Eel,T7_FISH_FRESHWATER_FOREST_RARE
+Blackbog Clam,T7_FISH_FRESHWATER_SWAMP_RARE
+Thunderfall Lurcher,T7_FISH_FRESHWATER_HIGHLANDS_RARE
+Elusive Foxglove,T6_FOXGLOVE
